@@ -1,0 +1,31 @@
+.container{
+  border:2px solid black;
+}
+
+
+
+.form-group{
+  background-color:aqua;
+font-weight: 500;
+font-family: 'Courier New', Courier, monospace;
+font: 1em sans-serif;
+font-style: italic;
+font:600px;
+text-align: center;
+margin-top: 0.5rem;
+font-size: 1.5rem;
+
+
+}
+
+
+.form-control{
+  background-color: wheat;
+  color:black;
+  font-weight: 20px;
+
+}
+
+.d-grid{
+  font-size: larger;
+}
